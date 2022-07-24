@@ -167,9 +167,13 @@ address{
 
 /* Стилизация Герой */
 
-.hero{
+.hero {
     background-color: #C4C4C4;
     padding: 200px 0;
+    height: 600px;
+}
+
+.overlay {
     max-width: 1600px;
     height: 600px;
     margin-left: auto;
